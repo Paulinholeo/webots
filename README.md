@@ -1,3 +1,7 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cyberbotics/webots) 
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cyberbotics/webots) 
+
 # Webots
 
 [![Build Status](https://travis-ci.com/cyberbotics/webots.svg?branch=master)](https://travis-ci.com/cyberbotics/webots)
